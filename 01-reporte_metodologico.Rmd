@@ -2,14 +2,12 @@
 title: "Panel Ciudadanía Escolar"
 ---
 # Reporte metodológico {-}
-<div align="justify";>
-En el estudio  <br>
-</div>
+
 
 [Diseño Metodológico PACES](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FImage&psig=AOvVaw25iE5fh04jMBHc_47UwACd&ust=1600883688102000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCID68s2q_esCFQAAAAAdAAAAABAD)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzMyMDk5LC0xNjQzMjkwOTY2LC04OD
-IzMTY1ODUsLTExOTk0NTIwOTldfQ==
+eyJoaXN0b3J5IjpbLTE2NDMyOTA5NjYsLTQyMzMyMDk5LC0xNj
+QzMjkwOTY2LC04ODIzMTY1ODUsLTExOTk0NTIwOTldfQ==
 -->
