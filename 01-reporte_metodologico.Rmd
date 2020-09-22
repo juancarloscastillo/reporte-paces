@@ -3,8 +3,8 @@ title: "Panel Ciudadanía Escolar"
 ---
 # Reporte metodológico {-}
 <div align="justify";>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa placerat duis ultricies lacus sed. At augue eget arcu dictum varius duis. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Sit amet aliquam id diam maecenas. Urna et pharetra pharetra massa massa. Viverra maecenas accumsan lacus vel facilisis volutpat est. Pretium quam vulputate dignissim suspendisse in est. Nibh nisl condimentum id venenatis a condimentum. Felis eget nunc lobortis mattis aliquam faucibus purus in. Nulla malesuada pellentesque elit eget. Ut placerat orci nulla pellentesque dignissim enim sit. <br>
+En el estudio  <br>
 </div>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk0NTIwOTldfQ==
+eyJoaXN0b3J5IjpbLTg4MjMxNjU4NSwtMTE5OTQ1MjA5OV19
 -->
