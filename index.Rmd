@@ -18,7 +18,11 @@ link-citations: yes
 
 El involucramiento político de las y los ciudadanas/os es un requisito fundamental de las democracias modernas, y es justamente su visible erosión lo que se diagnóstica como crisis de legitimidad y representación de las mismas. Al mismo tiempo es evidente una ampliación de los repertorios de participación política, especialmente por parte de los jóvenes. Las respuestas desde las políticas públicas a estos rasgos paradojales, en el primer mundo como en Chile, se han enfocado al sistema educativo, sin considerar suficientemente el problema de las desigualdades de origen que afectan a las capacidades de participación, ni tampoco suficientemente las capacidades de agencia que exhiben las nuevas generaciones. En este marco el presente proyecto se propone investigar la socialización política de las nuevas generaciones, o el proceso y mecanismos de adquisición de unas creencias, conocimientos, actitudes y prácticas para el ejercicio de la ciudadanía, en las dos agencias clave de socialización: la familia y la escuela. La pregunta que articula el conjunto es: *¿En qué medida la escuela es un agente reproductor o mitigador de la transmisión intergeneracional de la desigualdad política familiar?* Su respuesta supone un diseño que aborde en profundidad tanto los efectos como los mecanismos de ambas agencias, desde una perspectiva evaluativa que interroga por los factores que profundizan o mitigan las desigualdades en socialización política.
 
+Este reporte resume los principales resultados del estudio **Panel de Ciudadanía Escolar - PACES**.
+
 Estructura del reporte:
+
+**Diseño Metodológico**
 
 **Módulo 1: Conocimiento y formación en la escuela**
 
@@ -52,5 +56,5 @@ knitr::write_bib(c(
 ), 'packages.bib')
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODI2NTg0MywtMTU3NTk5MjldfQ==
+eyJoaXN0b3J5IjpbLTkwNjg2NzgxMiwtMTU3NTk5MjldfQ==
 -->
