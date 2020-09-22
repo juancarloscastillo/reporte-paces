@@ -9,20 +9,15 @@ Para abordar esta pregunta se lleva a cabo un Estudio Panel de Ciudadanía Escol
 ```{r echo=FALSE, fig.align='center'}
 knitr::include_graphics("diseno1.png")
 ```
-
 ```mermaid
-sequenceDiagram
-2019 ->> 2020 ->> : Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
+graph LR
+A[E] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzM5MDMwNzMsLTEwMzY2NzkxNzcsLT
-IzODY5NDEwNCwtMTY0MzI5MDk2NiwtNDIzMzIwOTksLTE2NDMy
-OTA5NjYsLTg4MjMxNjU4NSwtMTE5OTQ1MjA5OV19
+eyJoaXN0b3J5IjpbLTYzNzE1NDMyLC0xMDM2Njc5MTc3LC0yMz
+g2OTQxMDQsLTE2NDMyOTA5NjYsLTQyMzMyMDk5LC0xNjQzMjkw
+OTY2LC04ODIzMTY1ODUsLTExOTk0NTIwOTldfQ==
 -->
