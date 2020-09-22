@@ -1,7 +1,18 @@
----
+
 title: "Panel Ciudadanía Escolar"
 ---
 # Reporte metodológico {-}
-<div align="justify";>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa placerat duis ultricies lacus sed. At augue eget arcu dictum varius duis. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Sit amet aliquam id diam maecenas. Urna et pharetra pharetra massa massa. Viverra maecenas accumsan lacus vel facilisis volutpat est. Pretium quam vulputate dignissim suspendisse in est. Nibh nisl condimentum id venenatis a condimentum. Felis eget nunc lobortis mattis aliquam faucibus purus in. Nulla malesuada pellentesque elit eget. Ut placerat orci nulla pellentesque dignissim enim sit. <br>
-</div>
+
+Para abordar esta pregunta se lleva a cabo un Estudio Panel de Ciudadanía Escolar entre 2019 y 2021, evaluando a una muestra representativa de padres, docentes y estudiantes de enseñanza media.  A continuación se presentan un esquema que resume el diseño metodológico longitudinal del estudio.
+
+**Diseño del Estudio Panel de Ciudadanía Escolar - PACES**
+```{r echo=FALSE, fig.align='center'}
+knitr::include_graphics("diseno1.png")
+```
+Los participantes 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5Mzk3MTMxMzksLTE5Mzk3MTMxMzksMj
+MwOTUxNDQ5LC0xMDM2Njc5MTc3LC0yMzg2OTQxMDQsLTE2NDMy
+OTA5NjYsLTQyMzMyMDk5LC0xNjQzMjkwOTY2LC04ODIzMTY1OD
+UsLTExOTk0NTIwOTldfQ==
+-->

@@ -15,17 +15,14 @@ link-citations: yes
 ---
 
 # Presentación del estudio{-}
-<div align="justify";>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa placerat duis ultricies lacus sed. At augue eget arcu dictum varius duis. Platea dictumst quisque sagittis purus sit amet volutpat consequat. Sit amet aliquam id diam maecenas. Urna et pharetra pharetra massa massa. Viverra maecenas accumsan lacus vel facilisis volutpat est. Pretium quam vulputate dignissim suspendisse in est. Nibh nisl condimentum id venenatis a condimentum. Felis eget nunc lobortis mattis aliquam faucibus purus in. Nulla malesuada pellentesque elit eget. Ut placerat orci nulla pellentesque dignissim enim sit. <br>
 
-Malesuada fames ac turpis egestas integer eget aliquet nibh. Mi bibendum neque egestas congue quisque. Interdum consectetur libero id faucibus nisl. Porta nibh venenatis cras sed felis eget. Euismod lacinia at quis risus sed vulputate odio ut. Massa sed elementum tempus egestas sed sed risus pretium. At imperdiet dui accumsan sit amet nulla facilisi. Nisl tincidunt eget nullam non nisi est sit amet. Arcu bibendum at varius vel. Mattis aliquam faucibus purus in. Consequat id porta nibh venenatis cras sed felis eget. Laoreet non curabitur gravida arcu ac. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Volutpat sed cras ornare arcu dui vivamus arcu felis bibendum.<br>
+El involucramiento político de las y los ciudadanas/os es un requisito fundamental de las democracias modernas, y es justamente su visible erosión lo que se diagnóstica como crisis de legitimidad y representación de las mismas. Al mismo tiempo es evidente una ampliación de los repertorios de participación política, especialmente por parte de los jóvenes. Las respuestas desde las políticas públicas a estos rasgos paradojales, en el primer mundo como en Chile, se han enfocado al sistema educativo, sin considerar suficientemente el problema de las desigualdades de origen que afectan a las capacidades de participación, ni tampoco suficientemente las capacidades de agencia que exhiben las nuevas generaciones. En este marco el presente proyecto se propone investigar la socialización política de las nuevas generaciones, o el proceso y mecanismos de adquisición de unas creencias, conocimientos, actitudes y prácticas para el ejercicio de la ciudadanía, en las dos agencias clave de socialización: la familia y la escuela. La pregunta que articula el conjunto es: *¿En qué medida la escuela es un agente reproductor o mitigador de la transmisión intergeneracional de la desigualdad política familiar?* Su respuesta supone un diseño que aborde en profundidad tanto los efectos como los mecanismos de ambas agencias, desde una perspectiva evaluativa que interroga por los factores que profundizan o mitigan las desigualdades en socialización política.
 
-Amet mattis vulputate enim nulla. Elementum nibh tellus molestie nunc non blandit massa enim nec. Nisl suscipit adipiscing bibendum est ultricies integer quis auctor. Viverra justo nec ultrices dui sapien eget mi proin sed. At erat pellentesque adipiscing commodo. Est ullamcorper eget nulla facilisi etiam dignissim diam quis. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat in. Aliquam sem fringilla ut morbi tincidunt. Duis ultricies lacus sed turpis tincidunt id. Phasellus vestibulum lorem sed risus ultricies tristique. Odio eu feugiat pretium nibh ipsum. Diam volutpat commodo sed egestas egestas.<br>
-
-Pharetra diam sit amet nisl. Ultricies mi eget mauris pharetra et ultrices neque ornare aenean. Convallis posuere morbi leo urna molestie at. Tristique magna sit amet purus gravida. Lacus sed turpis tincidunt id aliquet risus. Eget mi proin sed libero enim. Gravida rutrum quisque non tellus orci ac. Turpis nunc eget lorem dolor sed viverra ipsum. Amet aliquam id diam maecenas ultricies mi. Ornare arcu odio ut sem. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Id donec ultrices tincidunt arcu non sodales. Eget nunc lobortis mattis aliquam faucibus purus in massa. Mattis vulputate enim nulla aliquet porttitor lacus. Ut eu sem integer vitae justo eget magna fermentum iaculis. Ultricies tristique nulla aliquet enim tortor at auctor urna nunc. Ullamcorper sit amet risus nullam. Dolor sit amet consectetur adipiscing elit. Cursus eget nunc scelerisque viverra mauris in aliquam.<br><br>
-</div>
+Este reporte resume los principales resultados del estudio **Panel de Ciudadanía Escolar - PACES**.
 
 Estructura del reporte:
+
+**Diseño Metodológico**
 
 **Módulo 1: Conocimiento y formación en la escuela**
 
@@ -58,3 +55,6 @@ knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTkwNjg2NzgxMiwtMTU3NTk5MjldfQ==
+-->
