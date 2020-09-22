@@ -10,9 +10,13 @@ Para abordar esta pregunta se lleva a cabo un Estudio Panel de Ciudadanía Escol
 knitr::include_graphics("diseno1.png")
 ```
 Los participantes 
+
+nnn
+
+nn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzk3MTMxMzksMjMwOTUxNDQ5LC0xMD
-M2Njc5MTc3LC0yMzg2OTQxMDQsLTE2NDMyOTA5NjYsLTQyMzMy
-MDk5LC0xNjQzMjkwOTY2LC04ODIzMTY1ODUsLTExOTk0NTIwOT
-ldfQ==
+eyJoaXN0b3J5IjpbLTYyMzQ2MzM2NywtMTkzOTcxMzEzOSwyMz
+A5NTE0NDksLTEwMzY2NzkxNzcsLTIzODY5NDEwNCwtMTY0MzI5
+MDk2NiwtNDIzMzIwOTksLTE2NDMyOTA5NjYsLTg4MjMxNjU4NS
+wtMTE5OTQ1MjA5OV19
 -->
