@@ -3,8 +3,8 @@ title: "Panel Ciudadanía Escolar"
 ---
 # Reporte metodológico {-}
 
-El involucramiento político de las y los ciudadanas/os es un requisito fundamental de las democracias modernas, y es justamente su visible erosión lo que se diagnóstica como crisis de legitimidad y representación de las mismas. Al mismo tiempo es evidente una ampliación de los repertorios de participación política, especialmente por parte de los jóvenes. Las respuestas desde las políticas públicas a estos rasgos paradojales, en el primer mundo como en Chile, se han enfocado al sistema educativo, sin considerar suficientemente el problema de las desigualdades de origen que afectan a las capacidades de participación, ni tampoco suficientemente las capacidades de agencia que exhiben las nuevas generaciones. En este marco el presente proyecto se propone investigar la socialización política de las nuevas generaciones, o el proceso y mecanismos de adquisición de unas creencias, conocimientos, actitudes y prácticas para el ejercicio de la ciudadanía, en las dos agencias clave de socialización: la familia y la escuela. La pregunta que articula el conjunto es: *¿En qué medida la escuela es un agente reproductor o mitigador de la transmisión intergeneracional de la desigualdad política familiar?* Su respuesta supone un diseño que aborde en profundidad tanto los efectos como los mecanismos de ambas agencias, desde una perspectiva evaluativa que interroga por los factores que profundizan o mitigan las desigualdades en socialización política. <br>
-<br>
+El involucramiento político de las y los ciudadanas/os es un requisito fundamental de las democracias modernas, y es justamente su visible erosión lo que se diagnóstica como crisis de legitimidad y representación de las mismas. Al mismo tiempo es evidente una ampliación de los repertorios de participación política, especialmente por parte de los jóvenes. Las respuestas desde las políticas públicas a estos rasgos paradojales, en el primer mundo como en Chile, se han enfocado al sistema educativo, sin considerar suficientemente el problema de las desigualdades de origen que afectan a las capacidades de participación, ni tampoco suficientemente las capacidades de agencia que exhiben las nuevas generaciones. En este marco el presente proyecto se propone investigar la socialización política de las nuevas generaciones, o el proceso y mecanismos de adquisición de unas creencias, conocimientos, actitudes y prácticas para el ejercicio de la ciudadanía, en las dos agencias clave de socialización: la familia y la escuela. La pregunta que articula el conjunto es: *¿En qué medida la escuela es un agente reproductor o mitigador de la transmisión intergeneracional de la desigualdad política familiar?* Su respuesta supone un diseño que aborde en profundidad tanto los efectos como los mecanismos de ambas agencias, desde una perspectiva evaluativa que interroga por los factores que profundizan o mitigan las desigualdades en socialización política.
+
 Para abordar esta pregunta se llevará cabo un Estudio Panel de Ciudadanía Escolar entre 2019 y 2021, evaluando a una muestra representativa de padres, docentes y estudiantes de enseñanza media. La encuesta tiene como eje la implementación de la Ley de Formación Ciudadana y la consiguiente creación de la asignatura de Formación Ciudadana, que comenzará el año 2019 en enseñanza media. De esta manera, la disponibilidad de información aún no explotada y la contingencia de la implementación de la Ley referida representan una oportunidad histórica para avanzar en la investigación de este tema en el país.
 
 **Diseño del Estudio Panel de Ciudadanía Escolar - PACES**
@@ -12,7 +12,7 @@ Para abordar esta pregunta se llevará cabo un Estudio Panel de Ciudadanía Esco
 knitr::include_graphics("diseno1.png")
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY2NzkxNzcsLTIzODY5NDEwNCwtMT
-Y0MzI5MDk2NiwtNDIzMzIwOTksLTE2NDMyOTA5NjYsLTg4MjMx
-NjU4NSwtMTE5OTQ1MjA5OV19
+eyJoaXN0b3J5IjpbLTM1NzYxMzA0NywtMTAzNjY3OTE3NywtMj
+M4Njk0MTA0LC0xNjQzMjkwOTY2LC00MjMzMjA5OSwtMTY0MzI5
+MDk2NiwtODgyMzE2NTg1LC0xMTk5NDUyMDk5XX0=
 -->
