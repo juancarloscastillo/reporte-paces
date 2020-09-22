@@ -11,13 +11,14 @@ knitr::include_graphics("diseno1.png")
 ```
 ```mermaid
 graph LR
-A[E] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
+A[Exogena] -- 0.333*** --> B((Latente))
+A -- 0.333*** --> C(Mediador)
+B --> D{Dependiente}
+C --> D
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzE1NDMyLC0xMDM2Njc5MTc3LC0yMz
+eyJoaXN0b3J5IjpbLTkzMDIxNDk3LC0xMDM2Njc5MTc3LC0yMz
 g2OTQxMDQsLTE2NDMyOTA5NjYsLTQyMzMyMDk5LC0xNjQzMjkw
 OTY2LC04ODIzMTY1ODUsLTExOTk0NTIwOTldfQ==
 -->
