@@ -1,0 +1,6 @@
+book_filename: "paces"
+language:
+  ui:
+    chapter_name: "Modulo "
+delete_merged_file: true
+output_dir: "docs"
