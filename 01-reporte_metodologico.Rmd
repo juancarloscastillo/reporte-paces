@@ -9,16 +9,9 @@ Para abordar esta pregunta se lleva a cabo un Estudio Panel de Ciudadanía Escol
 ```{r echo=FALSE, fig.align='center'}
 knitr::include_graphics("diseno1.png")
 ```
-```mermaid
-graph LR
-A[Exogena] -- 0.333*** --> B((Latente))
-A -- 0.333*** --> C(Mediador)
-B --> D{Dependiente}
-C --> D
-C --> D
-```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDIxNDk3LC0xMDM2Njc5MTc3LC0yMz
-g2OTQxMDQsLTE2NDMyOTA5NjYsLTQyMzMyMDk5LC0xNjQzMjkw
-OTY2LC04ODIzMTY1ODUsLTExOTk0NTIwOTldfQ==
+eyJoaXN0b3J5IjpbLTE5MjQ1OTA2MjgsLTEwMzY2NzkxNzcsLT
+IzODY5NDEwNCwtMTY0MzI5MDk2NiwtNDIzMzIwOTksLTE2NDMy
+OTA5NjYsLTg4MjMxNjU4NSwtMTE5OTQ1MjA5OV19
 -->
