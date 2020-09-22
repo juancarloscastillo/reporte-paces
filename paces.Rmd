@@ -75,28 +75,39 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 title: "Panel Ciudadanía Escolar"
 ---
 # Conocimiento y formación en la escuela
-<div align="justify";>
-El reporte de los resultados correspondientes a este módulo se organiza en dos secciones. En la primera sección se presentarán las respuestas de los estudiantes a un set de preguntas que evalúan su nivel de conocimiento cívico. En la segunda sección se expondrán las respuestas de los docentes, estudiantes y apoderados a una serie de preguntas sobre el nivel de importancia de distintos aspectos en la formación ciudadana de los estudiantes y sobre quiénes son los que más influyen en la enseñanza de estos aspectos. 
-</div>
-## Sección 1: Conocimiento cívico
-<div align="justify";>
-En esta sección se presentarán los resultados de una serie de preguntas que evalúan el nivel de conocimiento de los estudiantes de segundo año de enseñanza media sobre diversos temas cívicos, políticos y sociales. Las primeras seis preguntas que se presentarán provienen del Estudio Internacional de Educación Cívica y Formación Ciudadana (ICCS). Las otras ocho preguntas han sido elaboradas por el equipo de investigación para evaluar esta dimensión. <br>
+
+
+El reporte de los resultados correspondientes a este módulo se organiza en dos secciones. En la primera sección se presentarán las respuestas de los estudiantes a un set de preguntas que evalúan su nivel de conocimiento cívico. En la segunda sección se expondrán las respuestas de los docentes, estudiantes y apoderados a una serie de preguntas sobre el nivel de importancia de distintos aspectos en la formación ciudadana de los estudiantes y sobre quiénes son los que más influyen en la enseñanza de estos aspectos.
+
+
+## Conocimiento cívico
+
+En esta sección se presentarán los resultados de una serie de preguntas que evalúan el nivel de conocimiento de los estudiantes de segundo año de enseñanza media sobre diversos temas cívicos, políticos y sociales. Las primeras seis preguntas que se presentarán provienen del Estudio Internacional de Educación Cívica y Formación Ciudadana (ICCS). Las otras ocho preguntas han sido elaboradas por el equipo de investigación para evaluar esta dimensión.
+
+
 El reporte de los resultados correspondientes a esta sección se organiza en dos subsecciones. En la primera subsección se expondrán los resultados generales de todas las preguntas sobre conocimiento cívico. En la segunda subsección se presentará un análisis de los resultados de las preguntas provenientes del estudio ICCS, comparando las respuestas de los estudiantes de 8°básico encuestados el año 2009 con las respuestas de los estudiantes de 2°medio encuestados el año 2019.
-</div>
 
-### Resultados generales
-<div align="justify";>
-Las primeras ocho interrogantes que se presentarán en esta subsección son parte de un set de preguntas que evalúa distintas aristas del <strong><i>conocimiento cívico conceptual</i></strong>. Las seis preguntas restantes evalúan diferentes dimensiones del <strong><i>conocimiento cívico factual</i></strong>. <br>
+
+### Conocimiento cívico PACES
+
+Las primeras ocho interrogantes que se presentarán en esta subsección son parte de un set de preguntas que evalúa distintas aristas del **conocimiento cívico conceptual**. Las seis preguntas restantes evalúan diferentes dimensiones del **conocimiento cívico factual**
+
+
 En relación con el patrón de respuestas cabe destacar que, en general, la mayoría de los estudiantes respondió las preguntas de forma correcta (entre un 42% y un 78.4% de los encuestados) y que, en algunas preguntas, las respuestas incorrectas se concentraron en una alternativa en particular. <br>
-</div>
 
-#### Primera pregunta
-<div align="justify";>
-Un 42% de los estudiantes respondió correctamente la pregunta. Entre las alternativas incorrectas, hubo una que distrajó a parte importante de los estudiantes, concentrando el 34% de las respuestas.
-</div> <br>
-```{r echo=FALSE, fig.align='center'}
+
+---
+
+
+```{r echo=FALSE, fig.align='center', fig.cap="Razones para crear leyes en el Congreso"}
 knitr::include_graphics("images/ccivico_1.png")
 ```
+
+Un 42% de los estudiantes respondió correctamente la pregunta. Entre las alternativas incorrectas, hubo una que distrajó a parte importante de los estudiantes, concentrando el 34% de las respuestas.
+
+---
+
+
 
 #### Segunda pregunta
 <div align="justify";>
@@ -156,7 +167,7 @@ knitr::include_graphics("images/ccivico_8.png")
 
 #### Novena pregunta
 <div align="justify";>
-Un 44.4% de los estudiantes seleccionó la alternativa correcta. Las respuestas incorrectas no se concentraron en una alternativa en particular. 
+Un 44.4% de los estudiantes seleccionó la alternativa correcta. Las respuestas incorrectas no se concentraron en una alternativa en particular.
 </div> <br>
 ```{r echo=FALSE, fig.align='center'}
 knitr::include_graphics("images/ccivico_9.png")
@@ -180,7 +191,7 @@ knitr::include_graphics("images/ccivico_11.png")
 
 #### Duodécima pregunta
 <div align="justify";>
-La mayoría de los estudiantes (un 69.3%) seleccionó la alternativa correcta. Las respuestas incorrectas se distribuyeron de forma pareja entre las alternativas restantes.  
+La mayoría de los estudiantes (un 69.3%) seleccionó la alternativa correcta. Las respuestas incorrectas se distribuyeron de forma pareja entre las alternativas restantes.
 </div> <br>
 ```{r echo=FALSE, fig.align='center'}
 knitr::include_graphics("images/ccivico_12.png")
@@ -242,7 +253,7 @@ knitr::include_graphics("images/graph_p4.png")
 
 #### Quinta pregunta
 <div align="justify";>
-La mayoría de los estudiantes de ambos grupos respondió de forma incorrecta. Aunque cabe destacar que la alternativa correcta fue la que concentró una mayor proporción de respuestas (un 43.1% de los estudiantes de 8°básico y un 49.3% de los estudiantes de 2°medio seleccionaron la alternativa correcta). Las respuestas incorrectas de ambos grupos de estudiantes se concentraron en una alternativa en particular, la cual fue seleccionada por el 30.8% de los estudiantes de 8°básico y el 22.7% de los estudiantes de 2°medio. 
+La mayoría de los estudiantes de ambos grupos respondió de forma incorrecta. Aunque cabe destacar que la alternativa correcta fue la que concentró una mayor proporción de respuestas (un 43.1% de los estudiantes de 8°básico y un 49.3% de los estudiantes de 2°medio seleccionaron la alternativa correcta). Las respuestas incorrectas de ambos grupos de estudiantes se concentraron en una alternativa en particular, la cual fue seleccionada por el 30.8% de los estudiantes de 8°básico y el 22.7% de los estudiantes de 2°medio.
 </div> <br>
 ```{r echo=FALSE, fig.align='center'}
 knitr::include_graphics("images/graph_p5.png")
@@ -263,7 +274,7 @@ En esta sección se presentarán los resultados de una serie de preguntas referi
 
 <div align="justify";>
 La mayoría de los docentes, estudiantes y apoderados cree que <i>el respeto y la amabilidad en las relaciones con los demás</i> son un aspecto muy importante en la formación ciudadana de los estudiantes. Más específicamente, el 96.1% de los docentes, el 57% de los estudiantes y el 85.6% de los apoderados creen que es muy importante. En relación a las alternativas nada importante y algo importante cabe destacar que ninguno de los docentes optó por esas respuestas y que ninguno de los apoderados declaró que es un aspecto nada importante.
-</div> 
+</div>
 ```{r echo=FALSE, fig.align='center'}
 knitr::include_graphics("images/graph_for_ciud1.png")
 ```
@@ -297,7 +308,7 @@ knitr::include_graphics("images/graph_for_ciud5.png")
 ```
 
 <div align="justify";>
-Las respuestas de los estudiantes y apoderados son bastante similares. La mayoría de las personas de ambos grupos cree que el aspecto que debería ser más importante en la formación ciudadana es <i>el respeto y la amabilidad en las relaciones con los demás</i> (opción seleccionada por el 60.2% de los estudiantes y el 68.8% de los apoderados). Este aspecto también fue destacado por un gran grupo de docentes (un 33.7%), pero la mayoría de los docentes declaro que el aspecto que debería ser más importante en la formación ciudadana corresponde a <i>los valores democráticos de deliberación, tolerancia y compromiso con el bien común</i> (el 53.7%). 
+Las respuestas de los estudiantes y apoderados son bastante similares. La mayoría de las personas de ambos grupos cree que el aspecto que debería ser más importante en la formación ciudadana es <i>el respeto y la amabilidad en las relaciones con los demás</i> (opción seleccionada por el 60.2% de los estudiantes y el 68.8% de los apoderados). Este aspecto también fue destacado por un gran grupo de docentes (un 33.7%), pero la mayoría de los docentes declaro que el aspecto que debería ser más importante en la formación ciudadana corresponde a <i>los valores democráticos de deliberación, tolerancia y compromiso con el bien común</i> (el 53.7%).
 </div>
 ```{r echo=FALSE, fig.align='center'}
 knitr::include_graphics("images/graph_for_ciud6.png")
@@ -338,7 +349,6 @@ La mayoría de los estudiantes y de los apoderados piensa que es la familia quie
 ```{r echo=FALSE, fig.align='center'}
 knitr::include_graphics("images/graph_for_ciud11.png")
 ```
-
 
 <!--chapter:end:02-modulo1.Rmd-->
 
