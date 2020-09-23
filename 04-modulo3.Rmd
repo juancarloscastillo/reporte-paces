@@ -14,7 +14,7 @@ En términos generales, cabe destacar que la participación de los estudiantes s
 ---
 
 
-```{r echo=FALSE, fig.align='center'}
+```{r echo=FALSE, fig.align='center', fig.cap="Participación formal al interior de la escuela"}
 knitr::include_graphics("images/graph_partform_act.png")
 ```
 
@@ -23,7 +23,7 @@ En relación con la participación en votaciones, la mayoría de los estudiantes
 ---
 
 
-```{r echo=FALSE, fig.align='center'}
+```{r echo=FALSE, fig.align='center', fig.cap="Participación formal cuando sea adulto(a)"}
 knitr::include_graphics("images/graph_partform_fut.png")
 ```
 
@@ -36,7 +36,7 @@ Al consultar a los estudiantes sobre su disposición a participar activamente de
 ---
 
 
-```{r echo=FALSE, fig.align='center'}
+```{r echo=FALSE, fig.align='center', fig.cap="Participación activista al interior de la escuela"}
 knitr::include_graphics("images/graph_partact_esc.png")
 ```
 
@@ -45,7 +45,7 @@ Son pocos los estudiantes que declaran haber realizado actividades de participac
 ---
 
 
-```{r echo=FALSE, fig.align='center'}
+```{r echo=FALSE, fig.align='center', fig.cap="Participación activista fuera de la escuela"}
 knitr::include_graphics("images/graph_partact.png")
 ```
 
@@ -58,7 +58,7 @@ Como puede apreciarse la mayoría de los estudiantes no ha firmado una petición
 ---
 
 
-```{r echo=FALSE, fig.align='center'}
+```{r echo=FALSE, fig.align='center', fig.cap="Participación comunitaria al interior de la escuela"}
 knitr::include_graphics("images/graph_partcom_esc.png")
 ```
 
@@ -67,7 +67,7 @@ El ámbito de la participación comunitaria al interior de la escuela es aquel e
 ---
 
 
-```{r echo=FALSE, fig.align='center'}
+```{r echo=FALSE, fig.align='center', fig.cap="Participación comunitaria fuera de la escuela"}
 knitr::include_graphics("images/graph_partcom.png")
 ```
 
