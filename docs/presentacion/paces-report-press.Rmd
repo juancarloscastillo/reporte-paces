@@ -1,0 +1,208 @@
+---
+title: "Formación ciudadana: Contrastes entre la familia y la escuela"
+subtitle: "Resultados Primera ola Panel de Ciudadanía Escolar PACES"
+author: ""
+date: "30/10/2020"
+institute: ""
+output:
+  xaringan::moon_reader:
+    css: "blackboard-blue.css"
+    nature:
+      highlightStyle: dark
+      highlightLines: true
+      ratio: "16:9"
+      countIncrementalSlides: false    
+      beforeInit: "https://multinivel.netlify.com/docpres/xaringan_custom/macros.js"
+    seal: false
+
+---
+
+class: title
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(fig.path   = "figures/",
+                      fig.retina = 2,
+                      warning = FALSE,
+                      error = FALSE,
+                      message = FALSE)
+
+
+library(showtext)
+library(ggplot2)
+font_add_google("Pangolin", "Pangolin")
+showtext_auto()
+
+#theme for chalkboard
+theme_chalk <- function () { 
+  theme_minimal() %+replace% 
+    theme(
+      axis.ticks = element_line(colour = "white",size=0.25),
+      text = element_text(colour = "white"),
+      axis.text  = element_text(colour = "white",family = "Pangolin",size=18),
+      axis.title  = element_text(colour = "white",family = "Pangolin",size=24),
+      panel.background  = element_rect(colour = NA,fill="transparent"),
+      plot.background = element_rect(colour = "white",fill="transparent"),
+      legend.position = "bottom",
+      legend.title = element_blank(),
+      panel.grid.minor = element_blank(),
+      panel.grid.major.x = element_line(colour = "white",size=0.25),
+      panel.grid.major.y = element_line(colour = "white",size=0.25),
+      legend.text = element_text(size = 24)
+    )
+}
+
+#theme for masked plots
+theme_mask <- function () { 
+  theme_minimal() %+replace% 
+    theme(
+      axis.ticks = element_line(colour = "white",size=0.25),
+      text = element_text(colour = "white"),
+      axis.text  = element_text(colour = "white",family = "Pangolin",size=18),
+      axis.title  = element_text(colour = "white",family = "Pangolin",size=24),
+      panel.background  = element_rect(colour = NA,fill="transparent"),
+      plot.background = element_rect(colour = "white",fill="transparent"),
+      legend.position = "bottom",
+      legend.title = element_blank(),
+      panel.grid.minor = element_blank(),
+      panel.grid.major.x = element_line(colour = "white",size=0.25),
+      panel.grid.major.y = element_line(colour = "white",size=0.25),
+      legend.text = element_text(size = 24)
+    ) + 
+    theme(plot.margin = margin(2, 2, 2, 2, "cm"))
+}
+
+# make all plt bg transparent
+knitr::opts_chunk$set(dev.args=list(bg="transparent"))
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css"))
+
+```
+
+```{r xaringanExtra-share-again, echo=FALSE}
+xaringanExtra::use_share_again()
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_xaringan(colors = c(
+  red = "#f34213",
+  purple = "#3e2f5b",
+  orange = "#ff8811",
+  green = "#136f63",
+  white = "#FFFFFF"
+)
+)
+  
+  
+```
+
+
+
+### Formación Ciudadana:
+# Contrastes entre la familia y la escuela
+
+Resultados Primera Ola del .blue[Panel de Formación Ciudadana] (PACES)
+
+Proyecto FONDECYT N°
+
+30 de Septiembre de 2020
+
+---
+
+layout: true
+class: animated, fadeIn ,fadeOut
+
+---
+
+## .blue[Proyecto FONDECYT] Socialización Política y experiencia escolar: El rol de la familia y la escuela
+
+.blue[Investigador pincipal]: *Cristián Cox*, UDP
+
+--
+
+.left-board[
+Coinvestigadores:
+  * Daniel Miranda, UC
+  * Camila Jara, UDP
+  * Juan Castillo, UChile
+  ]
+
+.right-board[
+Asistentes de investigación:
+* Anaís Herrera, UChile
+* Macarena García, UDP
+]
+
+
+---
+class: blue
+
+# **Temas**
+
+
+## - Módulo 1: Conocimiento y formación en la escuela 
+
+## - Módulo 2: Actitudes políticas
+
+## - Módulo 3: Participación
+
+
+---
+class: blue
+
+# **Temas**
+
+
+## - **Módulo 1: Conocimiento y formación en la escuela** 
+
+  - 1.1 Conocimiento cívico
+  
+  - 1.2 Buena ciudadanía
+
+
+## - Módulo 2: Actitudes políticas
+
+## - Módulo 3: Participación
+
+---
+class: middle center
+
+# 1.1 Conocimiento cívico
+
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/ccivico_1.png)
+]
+
+---
+class: middle center
+
+# 1.2 Buena ciudadanía
+
+
+---
+
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_for_ciud1.png)
+]
+
+
+---
+class: title
+
+### Formación Ciudadana:
+# Contrastes entre la familia y la escuela
+
+Resultados Primera Ola del .blue[Panel de Formación Ciudadana] (PACES)
+
+Proyecto FONDECYT N°
+
+INFORME Y PRESENTACION DISPONIBLES EN:
+[https://juancarloscastillo.github.io/reporte-paces/](https://juancarloscastillo.github.io/reporte-paces/)
+

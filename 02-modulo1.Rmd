@@ -1,26 +1,25 @@
 ---
 title: "Panel Ciudadanía Escolar"
 ---
-# Conocimiento y formación en la escuela
 
+```{r echo=FALSE}
+knitr::opts_chunk$set(fig.width=3)
+```
+
+# Conocimiento y formación en la escuela
 
 El reporte de los resultados correspondientes a este módulo se organiza en dos secciones. En la primera sección se presentarán las respuestas de los estudiantes a un set de preguntas que evalúan su nivel de conocimiento cívico. En la segunda sección se expondrán las respuestas de los docentes, estudiantes y apoderados a una serie de preguntas sobre el nivel de importancia de distintos aspectos en la formación ciudadana de los estudiantes y sobre quiénes son los que más influyen en la enseñanza de estos aspectos.
 
 
-## Conocimiento cívico
+## Conocimiento cívico PACES
 
-En esta sección se presentarán los resultados de una serie de preguntas que evalúan el nivel de conocimiento de los estudiantes de segundo año de enseñanza media sobre diversos temas cívicos, políticos y sociales. Las primeras seis preguntas que se presentarán provienen del Estudio Internacional de Educación Cívica y Formación Ciudadana (ICCS). Las otras ocho preguntas han sido elaboradas por el equipo de investigación para evaluar esta dimensión.
+En esta sección se presentarán los resultados de una serie de preguntas que evalúan el nivel de conocimiento de los estudiantes de segundo año de enseñanza media sobre diversos temas cívicos, políticos y sociales.
 
-
-El reporte de los resultados correspondientes a esta sección se organiza en dos subsecciones. En la primera subsección se expondrán los resultados generales de todas las preguntas sobre conocimiento cívico. En la segunda subsección se presentará un análisis de los resultados de las preguntas provenientes del estudio ICCS, comparando las respuestas de los estudiantes de 8°básico encuestados el año 2009 con las respuestas de los estudiantes de 2°medio encuestados el año 2019.
-
-
-### Conocimiento cívico PACES
 
 Las primeras ocho interrogantes que se presentarán en esta subsección son parte de un set de preguntas que evalúa distintas aristas del **conocimiento cívico conceptual**. Las seis preguntas restantes evalúan diferentes dimensiones del **conocimiento cívico factual**
 
 
-En relación con el patrón de respuestas cabe destacar que, en general, la mayoría de los estudiantes respondió las preguntas de forma correcta (entre un 42% y un 78.4% de los encuestados) y que, en algunas preguntas, las respuestas incorrectas se concentraron en una alternativa en particular. 
+En relación con el patrón de respuestas cabe destacar que, en general, la mayoría de los estudiantes respondió las preguntas de forma correcta (entre un 42% y un 78.4% de los encuestados) y que, en algunas preguntas, las respuestas incorrectas se concentraron en una alternativa en particular.
 
 
 ---
@@ -152,9 +151,9 @@ Un 49% de los estudiantes respondió correctamente. Casi la totalidad de respues
 ---
 
 
-### Comparación con el estudio ICCS 2009
+## Comparación conocimiento cívico PACES / ICCS 2009
 
-Como se enuncio anteriormente, las seis preguntas que se presentarán en esta subsección corresponden a indicadores provenientes del estudio ICCS que evalúan distintas aristas del **_conocimiento cívico conceptual_**. Se comparará el patrón de respuesta de los estudiantes de 8°básico, encuestados en el estudio ICCS el año 2009, con las respuestas de los estudiantes de 2°medio, encuestados por este equipo de investigación el año 2019. Cabe destacar que la comparación se realizará con las respuestas de estudiantes de 8°básico debido a que es la única población para la cual existen datos disponibles que permiten evaluar el conocimiento cívico de estudiantes en Chile. 
+Como se enuncio anteriormente, las seis preguntas que se presentarán en esta subsección corresponden a indicadores provenientes del estudio ICCS que evalúan distintas aristas del **_conocimiento cívico conceptual_**. Se comparará el patrón de respuesta de los estudiantes de 8°básico, encuestados en el estudio ICCS el año 2009, con las respuestas de los estudiantes de 2°medio, encuestados por este equipo de investigación el año 2019. Cabe destacar que la comparación se realizará con las respuestas de estudiantes de 8°básico debido a que es la única población para la cual existen datos disponibles que permiten evaluar el conocimiento cívico de estudiantes en Chile.
 
 
 En términos generales, al realizar la comparación se puede concluir que hay una tendencia al alza en la identificación de la respuesta correcta en los estudiantes de segundo medio (en 5 de las 6 preguntas) y que, en la mayoría de las preguntas, la alternativa incorrecta que concentraba más casos en las respuestas de los estudiantes de 8°básico es la misma alternativa incorrecta que concentra más casos en las respuestas de los estudiantes de 2°medio.
@@ -216,8 +215,9 @@ La mayoría de los estudiantes seleccionó la alternativa correcta. A diferencia
 
 ---
 
-## Clima democrático en el aula
-En esta sección se presentarán los resultados de una serie de preguntas referidas a la formación ciudadana de los estudiantes. En el análisis de estas preguntas se compararan las respuestas de los docentes, los estudiantes y los apoderados. 
+## Buena ciudadanía
+
+En esta sección se presentarán los resultados de una serie de preguntas referidas a la formación ciudadana de los estudiantes. En el análisis de estas preguntas se compararan las respuestas de los docentes, los estudiantes y los apoderados.
 
 ### Importancia de distintos aspectos en la formación ciudadana
 

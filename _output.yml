@@ -6,9 +6,9 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Panel Ciudadania Escolar</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Publicado con bookdown</a></li>
     edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
-    download: ["pdf", "epub"]
+    download: ["pdf"]
 
 bookdown::pdf_book:
   includes:
@@ -16,4 +16,3 @@ bookdown::pdf_book:
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
-bookdown::epub_book: default

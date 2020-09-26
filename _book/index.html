@@ -1,39 +1,39 @@
 <!DOCTYPE html>
-<html >
-
+<html lang="" xml:lang="">
 <head>
 
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Investigación Social Abierta</title>
-  <meta name="description" content="Libro Investigación Social Abierta">
-  <meta name="generator" content="bookdown  and GitBook 2.6.7">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>A Minimal Book Example</title>
+  <meta name="description" content="This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook." />
+  <meta name="generator" content="bookdown 0.18 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Investigación Social Abierta" />
+  <meta property="og:title" content="A Minimal Book Example" />
   <meta property="og:type" content="book" />
   
   
-  <meta property="og:description" content="Libro Investigación Social Abierta" />
+  <meta property="og:description" content="This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook." />
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Investigación Social Abierta" />
+  <meta name="twitter:title" content="A Minimal Book Example" />
   
-  <meta name="twitter:description" content="Libro Investigación Social Abierta" />
-  
-
-<meta name="author" content="Juan Carlos Castillo">
-
-
-<meta name="date" content="2019-08-23">
-
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  
+  <meta name="twitter:description" content="This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook." />
   
 
-<link rel="next" href="introduccion.html">
+<meta name="author" content="Yihui Xie" />
+
+
+<meta name="date" content="2020-09-26" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+
+<link rel="next" href="intro.html"/>
+<script src="libs/header-attrs-2.1/header-attrs.js"></script>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -41,6 +41,9 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
 
 
 
@@ -51,26 +54,26 @@
 
 
 <style type="text/css">
-a.sourceLine { display: inline-block; line-height: 1.25; }
-a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
-a.sourceLine:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode { white-space: pre; position: relative; }
-div.sourceCode { margin: 1em 0; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
 pre.sourceCode { margin: 0; }
 @media screen {
 div.sourceCode { overflow: auto; }
 }
 @media print {
-code.sourceCode { white-space: pre-wrap; }
-a.sourceLine { text-indent: -1em; padding-left: 1em; }
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
-pre.numberSource a.sourceLine
-  { position: relative; left: -4em; }
-pre.numberSource a.sourceLine::before
-  { content: attr(title);
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
     position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; pointer-events: all; display: inline-block;
+    border: none; display: inline-block;
     -webkit-touch-callout: none; -webkit-user-select: none;
     -khtml-user-select: none; -moz-user-select: none;
     -ms-user-select: none; user-select: none;
@@ -79,9 +82,9 @@ pre.numberSource a.sourceLine::before
   }
 pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
 div.sourceCode
-  {  }
+  {   }
 @media screen {
-a.sourceLine::before { text-decoration: underline; }
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ff0000; font-weight: bold; } /* Alert */
 code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
@@ -127,34 +130,20 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <nav role="navigation">
 
 <ul class="summary">
-<li><a href="./">Investigacion Social Abierta</a></li>
+<li><a href="./">A Minimal Book Example</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Presentación</a></li>
-<li class="chapter" data-level="1" data-path="introduccion.html"><a href="introduccion.html"><i class="fa fa-check"></i><b>1</b> Introducción</a></li>
-<li class="chapter" data-level="2" data-path="documentos-reproducibles.html"><a href="documentos-reproducibles.html"><i class="fa fa-check"></i><b>2</b> Documentos reproducibles</a><ul>
-<li class="chapter" data-level="2.1" data-path="documentos-reproducibles.html"><a href="documentos-reproducibles.html#sobre-texto-plano"><i class="fa fa-check"></i><b>2.1</b> Sobre texto plano</a></li>
-<li class="chapter" data-level="2.2" data-path="documentos-reproducibles.html"><a href="documentos-reproducibles.html#markdown"><i class="fa fa-check"></i><b>2.2</b> Markdown</a><ul>
-<li class="chapter" data-level="2.2.1" data-path="documentos-reproducibles.html"><a href="documentos-reproducibles.html#marcas-de-edicion"><i class="fa fa-check"></i><b>2.2.1</b> Marcas de edición</a></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Prerequisites</a></li>
+<li class="chapter" data-level="2" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>2</b> Introduction</a></li>
+<li class="chapter" data-level="3" data-path="literature.html"><a href="literature.html"><i class="fa fa-check"></i><b>3</b> Literature</a></li>
+<li class="chapter" data-level="4" data-path="methods.html"><a href="methods.html"><i class="fa fa-check"></i><b>4</b> Methods</a></li>
+<li class="chapter" data-level="5" data-path="applications.html"><a href="applications.html"><i class="fa fa-check"></i><b>5</b> Applications</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="applications.html"><a href="applications.html#example-one"><i class="fa fa-check"></i><b>5.1</b> Example one</a></li>
+<li class="chapter" data-level="5.2" data-path="applications.html"><a href="applications.html#example-two"><i class="fa fa-check"></i><b>5.2</b> Example two</a></li>
 </ul></li>
-<li class="chapter" data-level="2.3" data-path="documentos-reproducibles.html"><a href="documentos-reproducibles.html#knitr"><i class="fa fa-check"></i><b>2.3</b> Knitr</a><ul>
-<li class="chapter" data-level="2.3.1" data-path="documentos-reproducibles.html"><a href="documentos-reproducibles.html#trozos-chunks-de-codigo"><i class="fa fa-check"></i><b>2.3.1</b> Trozos (chunks) de código</a></li>
-<li class="chapter" data-level="2.3.2" data-path="documentos-reproducibles.html"><a href="documentos-reproducibles.html#tipos-de-chunks"><i class="fa fa-check"></i><b>2.3.2</b> Tipos de chunks</a></li>
-</ul></li>
-<li class="chapter" data-level="2.4" data-path="documentos-reproducibles.html"><a href="documentos-reproducibles.html#trabajando-con-documentos-dinamicos-en-rstudio"><i class="fa fa-check"></i><b>2.4</b> Trabajando con documentos dinámicos en RStudio</a></li>
-</ul></li>
-<li class="chapter" data-level="3" data-path="citando-plano.html"><a href="citando-plano.html"><i class="fa fa-check"></i><b>3</b> Citando plano</a><ul>
-<li class="chapter" data-level="3.1" data-path="citando-plano.html"><a href="citando-plano.html#bibtex-zotero-y-better-bibtex-bbt"><i class="fa fa-check"></i><b>3.1</b> Bibtex, Zotero y Better BibTex (BBT)</a><ul>
-<li class="chapter" data-level="3.1.1" data-path="citando-plano.html"><a href="citando-plano.html#sobre-exportar-referencias-en-trabajo-colaborativo"><i class="fa fa-check"></i><b>3.1.1</b> Sobre exportar referencias en trabajo colaborativo</a></li>
-</ul></li>
-<li class="chapter" data-level="3.2" data-path="citando-plano.html"><a href="citando-plano.html#referenciando-en-tex"><i class="fa fa-check"></i><b>3.2</b> Referenciando en TEX</a></li>
-<li class="chapter" data-level="3.3" data-path="citando-plano.html"><a href="citando-plano.html#referenciando-en-markdown"><i class="fa fa-check"></i><b>3.3</b> Referenciando en Markdown</a></li>
-</ul></li>
-<li class="chapter" data-level="4" data-path="control-de-versiones.html"><a href="control-de-versiones.html"><i class="fa fa-check"></i><b>4</b> Control de versiones</a></li>
-<li class="chapter" data-level="5" data-path="flujos-reproducibles-y-colaborativos.html"><a href="flujos-reproducibles-y-colaborativos.html"><i class="fa fa-check"></i><b>5</b> Flujos reproducibles y colaborativos</a></li>
-<li class="chapter" data-level="6" data-path="comunicacion.html"><a href="comunicacion.html"><i class="fa fa-check"></i><b>6</b> Comunicación</a></li>
-<li class="chapter" data-level="7" data-path="flujo-x-en-atom.html"><a href="flujo-x-en-atom.html"><i class="fa fa-check"></i><b>7</b> Flujo X en Atom</a></li>
-<li class="chapter" data-level="" data-path="referencias.html"><a href="referencias.html"><i class="fa fa-check"></i>Referencias</a></li>
+<li class="chapter" data-level="6" data-path="final-words.html"><a href="final-words.html"><i class="fa fa-check"></i><b>6</b> Final Words</a></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 
@@ -167,7 +156,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <div class="body-inner">
         <div class="book-header" role="navigation">
           <h1>
-            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Investigación Social Abierta</a>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">A Minimal Book Example</a>
           </h1>
         </div>
 
@@ -176,39 +165,19 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
             <section class="normal" id="section-">
 <div id="header">
-<h1 class="title">Investigación Social Abierta</h1>
-<h2 class="subtitle"><em>Herramientas para la reproducibilidad, colaboración y comunicación académica</em></h2>
-<p class="author"><em>Juan Carlos Castillo</em></p>
-<p class="date"><em>2019-08-23</em></p>
+<h1 class="title">A Minimal Book Example</h1>
+<p class="author"><em>Yihui Xie</em></p>
+<p class="date"><em>2020-09-26</em></p>
 </div>
-<div id="presentacion" class="section level1 unnumbered">
-<h1>Presentación</h1>
-<p>Este es un libro orientado a describir herramientas de investigación reproducible enfocado a un público del ámbito de las ciencias sociales. Está inspirado sin duda por la noción de ciencia abierta, pero consiste básicamente en una guía práctica de software de escritura, comunicación y colaboración. El argumento básico es que el hacer ciencia abierta pasa por la reproducibilidad de nuestras investigaciones, y esto nos lleva a privilegiar el trabajo en texto plano.</p>
-<p>Capítulos a desarrollar:</p>
-<p>1- Introducción</p>
-<p>2- Ciencia Abierta</p>
-<p>3- Documentos reproducibles</p>
-<ul>
-<li>Markdown / Rmarkdown</li>
-<li>Tejiendo escritura y análisis: Knitr</li>
-<li>Pandoc, plantillas y salidas</li>
-</ul>
-<p>4- Citando plano: Bibtex &amp; Zotero</p>
-<p>5- Control de versiones</p>
-<p>6- Flujos reproducibles</p>
-<ul>
-<li>Organización: carpetas y path relativos</li>
-<li>Orden de código</li>
-<li>Colaboración en Github: forks, pull requests, issues y projects</li>
-</ul>
-<p>7- Comunicación</p>
-<ul>
-<li>Publicación web vía Rmarkdown, blogdown &amp; bookdown</li>
-<li>Presentando: Xaringan</li>
-<li>Open Science Framework &amp; SocArxiv</li>
-<li>Repositorios (Dataverse)</li>
-</ul>
-<p>8- Apéndice: Implementación de Flujo X en Atom</p>
+<div id="prerequisites" class="section level1" number="1">
+<h1><span class="header-section-number">Chapter 1</span> Prerequisites</h1>
+<p>This is a <em>sample</em> book written in <strong>Markdown</strong>. You can use anything that Pandoc’s Markdown supports, e.g., a math equation <span class="math inline">\(a^2 + b^2 = c^2\)</span>.</p>
+<p>The <strong>bookdown</strong> package can be installed from CRAN or Github:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="index.html#cb1-1" aria-hidden="true"></a><span class="kw">install.packages</span>(<span class="st">&quot;bookdown&quot;</span>)</span>
+<span id="cb1-2"><a href="index.html#cb1-2" aria-hidden="true"></a><span class="co"># or the development version</span></span>
+<span id="cb1-3"><a href="index.html#cb1-3" aria-hidden="true"></a><span class="co"># devtools::install_github(&quot;rstudio/bookdown&quot;)</span></span></code></pre></div>
+<p>Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading <code>#</code>.</p>
+<p>To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <a href="https://yihui.org/tinytex/" class="uri">https://yihui.org/tinytex/</a>.</p>
 
 </div>
             </section>
@@ -217,16 +186,18 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
         </div>
       </div>
 
-<a href="introduccion.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="intro.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -234,12 +205,11 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -247,14 +217,18 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/rstudio/bookdown-demo/edit/master/index.Rmd",
-"text": "Edit"
+"link": null,
+"text": null
 },
 "history": {
 "link": null,
 "text": null
 },
-"download": ["bookdown-demo.pdf", "bookdown-demo.epub"],
+"view": {
+"link": null,
+"text": null
+},
+"download": ["reporte-paces-debug.pdf", "reporte-paces-debug.epub"],
 "toc": {
 "collapse": "subsection"
 }
@@ -262,6 +236,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>
