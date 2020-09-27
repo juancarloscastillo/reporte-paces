@@ -18,7 +18,7 @@ En términos generales, cabe destacar que la participación de los estudiantes s
 knitr::include_graphics("images/graph_partform_act.png")
 ```
 
-En relación con la participación en votaciones, la mayoría de los estudiantes declara que ha votado en una elección al interior de su escuela durante los últimos dos semestres (un 61.2%). En relación con la postulación a cargos de representación, la mayoría de los estudiantes señala que durante los últimos dos semestres no ha sido candidato para representar a la clase o para ser parte del centro de alumnos (un 75.1%), ni tampoco ha sido efectivamente parte del centro de alumnos (un 86%).
+En relación con la participación en votaciones, la mayoría de los estudiantes declara que ha votado en una elección al interior de su escuela durante los últimos dos semestres (un 61.9%). En relación con la postulación a cargos de representación, la mayoría de los estudiantes señala que durante los últimos dos semestres no ha sido candidato para representar a la clase o para ser parte del centro de alumnos (un 77.4%), ni tampoco ha sido efectivamente parte del centro de alumnos (un 87.1%).
 
 ---
 
@@ -27,7 +27,7 @@ En relación con la participación en votaciones, la mayoría de los estudiantes
 knitr::include_graphics("images/graph_partform_fut.png")
 ```
 
-Al consultar a los estudiantes sobre su disposición a participar activamente de la vida política cuando adulto, solo un 0.1% responde "seguro haré esto" ante las distintas actividades que se les presentan. Respecto a votar en las elecciones municipales, la mayoría de los estudiantes señala que tal vez lo hará (un 52.1%). En relación con las otras dos actividades, la mayoría de los estudiantes declara que probablemente lo hará. Más específicamente, el 51.6% dice que probablemente votará en las elecciones presidenciales y el 57.3% que probablemente se informará sobre los candidatos antes de votar en una elección.
+Al consultar a los estudiantes sobre su disposición a participar activamente de la vida política cuando adulto, solo un 0.1% responde "seguro haré esto" ante las distintas actividades que se les presentan. Respecto a votar en las elecciones municipales, la mayoría de los estudiantes señala que tal vez lo hará (un 50.7%). En relación con las otras dos actividades, la mayoría de los estudiantes declara que probablemente lo hará. Más específicamente, el 56% dice que probablemente votará en las elecciones presidenciales y el 60.9% señala que probablemente se informará sobre los candidatos antes de votar en una elección.
 
 ---
 
@@ -40,7 +40,7 @@ Al consultar a los estudiantes sobre su disposición a participar activamente de
 knitr::include_graphics("images/graph_partact_esc.png")
 ```
 
-Son pocos los estudiantes que declaran haber realizado actividades de participación activista. La mayoría de los estudiantes declara que no ha participado en una protesta, tomado un rol activo en una reunión o asamblea de estudiantes, ni usado una polera o símbolo con un mensaje político al interior de la escuela durante los últimos dos semestres (un 84%, un 82% y un 91.2%, respectivamente). 
+Son pocos los estudiantes que declaran haber realizado actividades de participación activista. La mayoría de los estudiantes declara que no ha participado en una protesta, tomado un rol activo en una reunión o asamblea de estudiantes, ni usado una polera o símbolo con un mensaje político al interior de la escuela durante los últimos dos semestres (un 83.3%, un 84.7% y un 91.5%, respectivamente). 
 
 ---
 
@@ -49,7 +49,7 @@ Son pocos los estudiantes que declaran haber realizado actividades de participac
 knitr::include_graphics("images/graph_partact.png")
 ```
 
-Como puede apreciarse la mayoría de los estudiantes no ha firmado una petición, ni ha participado en una marcha o una toma. Entre estas actividades, firmar una petición es aquella en la que más estudiantes ha participado (un 35.2%). Resulta interesante que la diferencia entre quienes participaron en marchas pacificas y quienes participaron en marchas que resultaron en destrucción de propiedad es pequeña (un 18.8% y un 13%, respectivamente).
+Como puede apreciarse la mayoría de los estudiantes no ha firmado una petición, ni ha participado en una marcha o una toma. Entre estas actividades, firmar una petición es aquella en la que más estudiantes ha participado (un 38.6%).
 
 ---
 
@@ -62,7 +62,7 @@ Como puede apreciarse la mayoría de los estudiantes no ha firmado una petición
 knitr::include_graphics("images/graph_partcom_esc.png")
 ```
 
-El ámbito de la participación comunitaria al interior de la escuela es aquel en que una mayor proporción de estudiantes ha realizado actividades (en comparación con la participación formal y activista). Pese a que la mayoría de los estudiantes señala que no ha realizado trabajos voluntarios, colectas de dineros o bienes para ayudar a otros, ni actividades de ayuda a la comunidad al interior de la escuela durante los últimos dos semestres (un 61.9%, un 54.1% y un 61.3%, respectivamente). 
+Si bien la mayoría de los estudiantes no ha realizado trabajos voluntarios, colectas de dineros o bienes para ayudar a otros, ni actividades de ayuda a la comunidad al interior de la escuela durante los últimos dos semestres (un 62.1%, un 52.5% y un 61.9%, respectivamente), el ámbito de la participación comunitaria al interior de la escuela es aquel en que una mayor proporción de estudiantes ha realizado actividades (en comparación con la participación formal y activista).
 
 ---
 
@@ -71,6 +71,6 @@ El ámbito de la participación comunitaria al interior de la escuela es aquel e
 knitr::include_graphics("images/graph_partcom.png")
 ```
 
-Pocos estudiantes han realizado actividades de participación comunitaria fuera de su escuela. La mayoría de los estudiantes no ha donado dinero por una buena causa, trabajado como voluntario para ayudar a personas de su comunidad, ni ha participado de una actividad social en la comunidad en que vive durante los últimos 12 meses (un 91.3%, un 90.5% y un 79%, respectivamente). 
+Pocos estudiantes han realizado actividades de participación comunitaria fuera de su escuela. La mayoría de los estudiantes no ha donado dinero por una buena causa, trabajado como voluntario para ayudar a personas de su comunidad, ni ha participado de una actividad social en la comunidad en que vive durante los últimos 12 meses (un 90.6%, un 89.1% y un 80.2%, respectivamente). 
 
 ---
