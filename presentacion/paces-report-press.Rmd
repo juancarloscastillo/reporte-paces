@@ -27,7 +27,6 @@ knitr::opts_chunk$set(fig.path   = "figures/",
                       error = FALSE,
                       message = FALSE)
 
-
 library(showtext)
 library(ggplot2)
 font_add_google("Pangolin", "Pangolin")
@@ -76,14 +75,17 @@ theme_mask <- function () {
 knitr::opts_chunk$set(dev.args=list(bg="transparent"))
 ```
 
+
 ```{r xaringanExtra, echo=FALSE}
 xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css"))
 
 ```
 
+
 ```{r xaringanExtra-share-again, echo=FALSE}
 xaringanExtra::use_share_again()
 ```
+
 
 ```{r xaringan-themer, include=FALSE, warning=FALSE}
 library(xaringanthemer)
@@ -96,9 +98,7 @@ style_xaringan(colors = c(
 )
 )
   
-  
 ```
-
 
 
 ### Formación Ciudadana:
@@ -106,7 +106,7 @@ style_xaringan(colors = c(
 
 Resultados Primera Ola del .blue[Panel de Formación Ciudadana] (PACES)
 
-Proyecto FONDECYT N°
+Proyecto FONDECYT N°1181239
 
 30 de Septiembre de 2020
 
@@ -155,23 +155,17 @@ class: blue
 
 # **Temas**
 
-
 ## - **Módulo 1: Conocimiento y formación en la escuela** 
 
   - 1.1 Conocimiento cívico
   
   - 1.2 Buena ciudadanía
 
-
-## - Módulo 2: Actitudes políticas
-
-## - Módulo 3: Participación
-
+  
 ---
 class: middle center
 
 # 1.1 Conocimiento cívico
-
 
 ---
 class: middle center
@@ -181,17 +175,198 @@ class: middle center
 
 ---
 class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/ccivico_2.png)
+]
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/ccivico_13.png)
+]
+
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://raw.githubusercontent.com/juancarloscastillo/paces/master/output/graphs/Conocimiento_civico_factual_edpadres.png)
+]
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://raw.githubusercontent.com/juancarloscastillo/paces/master/output/graphs/Conocimiento_civico_factual_colegio.png)
+]
+
+
+
+---
+class: middle center
 
 # 1.2 Buena ciudadanía
 
 
 ---
-
 class: middle center
 .framed[
 ![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_for_ciud1.png)
 ]
 
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_for_ciud7.png)
+]
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_for_ciud2.png)
+]
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_for_ciud8.png)
+]
+
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_for_ciud3.png)
+]
+
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_for_ciud9.png)
+]
+
+
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_for_ciud4.png)
+]
+
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_for_ciud10.png)
+]
+
+
+---
+class: blue
+
+# **Temas**
+
+## - **Módulo 2: Actitudes políticas**
+
+  - 2.1 Interés en temas sociales y políticos
+  
+  - 2.2 Actitudes hacia prácticas autoritarias
+  
+---
+class: middle center
+
+# 2.1 Interés en temas sociales y políticos
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_intpol.png)
+]
+
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_intmed.png)
+]
+
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_intmed.png)
+]
+
+
+---
+class: middle center
+
+# 2.2 Actitudes hacia prácticas autoritarias
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_aut1.png)
+]
+
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_aut3.png)
+]
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_aut7.png)
+]
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_aut9.png)
+]
+
+---
+class: blue
+
+# **Temas**
+
+## - **Módulo 3: Participación**
+
+  - 3.1 Participación en espacios escolares
+  
+  - 3.2 Participación futura
+  
+---
+class: middle center
+
+# 3.1 Participación en espacios escolares
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_partform_act.png)
+]
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_partcom_esc.png)
+]
+
+---
+class: middle center
+.framed[
+![:scale 55%](https://juancarloscastillo.github.io/reporte-paces/images/graph_partact.png)
+]
+
+
+---
+class: middle center
+
+# 3.2 Participación futura
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_partform_fut.png)
+]
+
+
+---
+# Reflexiones finales
 
 ---
 class: title
@@ -201,7 +376,7 @@ class: title
 
 Resultados Primera Ola del .blue[Panel de Formación Ciudadana] (PACES)
 
-Proyecto FONDECYT N°
+Proyecto FONDECYT N°1181239
 
 INFORME Y PRESENTACION DISPONIBLES EN:
 [https://juancarloscastillo.github.io/reporte-paces/](https://juancarloscastillo.github.io/reporte-paces/)
