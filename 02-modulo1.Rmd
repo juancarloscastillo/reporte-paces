@@ -1,9 +1,10 @@
 ---
 title: "Panel Ciudadanía Escolar"
+output: pdf_document
 ---
 
 ```{r echo=FALSE}
-knitr::opts_chunk$set(fig.width=3)
+knitr::opts_chunk$set(out.width="80%", fig.pos = "!ht", out.extra = "") 
 ```
 
 # Conocimiento y formación en la escuela

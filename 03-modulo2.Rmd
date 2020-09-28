@@ -1,11 +1,16 @@
 ---
 title: "Panel Ciudadanía Escolar"
 ---
+
+```{r echo=FALSE}
+knitr::opts_chunk$set(out.width="80%", fig.pos = "!ht", out.extra = "")
+```
+
 # Actitudes políticas
 En este módulo se presentan las respuestas de los docentes, estudiantes y apoderados a una serie de preguntas sobre temas políticos y sociales. El análisis se realizará comparando las respuestas de los grupos. Cabe precisar que algunas de las preguntas fueron realizadas solo a los estudiantes y apoderados.
 
 
-El reporte de los resultados correspondientes a este módulo se organiza en tres secciones. En la primera sección se presentarán las respuestas a preguntas relativas al interés en la política y al interés en tres distintos problemas sociales. En la segunda sección se expondrán las respuestas a preguntas respecto a la satisfacción con la democracia y distintas actitudes autoritarias. En la tercera sección se mostrarán los resultados de una pregunta sobre la confianza en distintas instituciones, la cual fue presentada solo a los estudiantes. 
+El reporte de los resultados correspondientes a este módulo se organiza en tres secciones. En la primera sección se presentarán las respuestas a preguntas relativas al interés en la política y al interés en tres distintos problemas sociales. En la segunda sección se expondrán las respuestas a preguntas respecto a la satisfacción con la democracia y distintas actitudes autoritarias. En la tercera sección se mostrarán los resultados de una pregunta sobre la confianza en distintas instituciones, la cual fue presentada solo a los estudiantes.
 
 
 ## Interés en política y problemas sociales
@@ -26,7 +31,7 @@ La mayoría de los docentes está algo interesado(a) o muy interesado(a) en _la 
 knitr::include_graphics("images/graph_intdes.png")
 ```
 
-La mayoría de los estudiantes y apoderados señala estar algo interesado(a) (un 37.4% y un 40.6%, respectivamente) o muy interesado(a) en _la desigualdad social_ (un 27.5% y un 37%, respectivamente). 
+La mayoría de los estudiantes y apoderados señala estar algo interesado(a) (un 37.4% y un 40.6%, respectivamente) o muy interesado(a) en _la desigualdad social_ (un 27.5% y un 37%, respectivamente).
 
 ---
 
@@ -44,7 +49,7 @@ El 46.7% de los estudiantes y el 54.9% de los apoderados declara estar muy inter
 knitr::include_graphics("images/graph_intgen.png")
 ```
 
-La mayoría de los estudiantes y apoderados está algo interesado(a) (un 32.7% y un 37.5%, respectivamente) o muy interesado(a) en _la igualdad de género_ (un 41.4% y un 35.7%, respectivamente). 
+La mayoría de los estudiantes y apoderados está algo interesado(a) (un 32.7% y un 37.5%, respectivamente) o muy interesado(a) en _la igualdad de género_ (un 41.4% y un 35.7%, respectivamente).
 
 ---
 
@@ -57,7 +62,7 @@ La mayoría de los estudiantes y apoderados está algo interesado(a) (un 32.7% y
 knitr::include_graphics("images/graph_dem.png")
 ```
 
-La mayoría de los estudiantes y apoderados se encuentra nada satisfecho(a) (un 28.2% y un 39.9%, respectivamente) o algo satisfecho(a) con _la manera en que funciona la democracia en Chile_ (un 47.8% y un 44.4%, respectivamente). 
+La mayoría de los estudiantes y apoderados se encuentra nada satisfecho(a) (un 28.2% y un 39.9%, respectivamente) o algo satisfecho(a) con _la manera en que funciona la democracia en Chile_ (un 47.8% y un 44.4%, respectivamente).
 
 ---
 

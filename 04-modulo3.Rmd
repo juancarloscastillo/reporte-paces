@@ -1,6 +1,11 @@
 ---
 title: "Panel Ciudadanía Escolar"
 ---
+
+```{r echo=FALSE}
+knitr::opts_chunk$set(out.width="80%", fig.pos = "!ht", out.extra = "")
+```
+
 # Participación
 
 En este módulo se presentan las respuestas de los estudiantes a una serie de preguntas sobre su participación en distintas actividades al interior de la escuela y fuera de la escuela. El reporte de los resultados se organiza en tres secciones. En la primera sección se presentarán los resultados de preguntas sobre la participación formal de los estudiantes en actividades al interior de la escuela y sobre la disposición de los estudiantes a participar en instancias políticas formales cuando sea adulto. En la segunda sección se expondrán los resultados a preguntas sobre la participación activista de los estudiantes en actividades al interior de la escuela y fuera de esta. En la tercera sección se mostrarán los resultados de preuntas sobre la participación comunitaria de los estudiantes en actividades al interior de la escuela y fuera de esta.
@@ -40,7 +45,7 @@ Al consultar a los estudiantes sobre su disposición a participar activamente de
 knitr::include_graphics("images/graph_partact_esc.png")
 ```
 
-Son pocos los estudiantes que declaran haber realizado actividades de participación activista. La mayoría de los estudiantes declara que no ha participado en una protesta, tomado un rol activo en una reunión o asamblea de estudiantes, ni usado una polera o símbolo con un mensaje político al interior de la escuela durante los últimos dos semestres (un 84%, un 82% y un 91.2%, respectivamente). 
+Son pocos los estudiantes que declaran haber realizado actividades de participación activista. La mayoría de los estudiantes declara que no ha participado en una protesta, tomado un rol activo en una reunión o asamblea de estudiantes, ni usado una polera o símbolo con un mensaje político al interior de la escuela durante los últimos dos semestres (un 84%, un 82% y un 91.2%, respectivamente).
 
 ---
 
@@ -62,7 +67,7 @@ Como puede apreciarse la mayoría de los estudiantes no ha firmado una petición
 knitr::include_graphics("images/graph_partcom_esc.png")
 ```
 
-El ámbito de la participación comunitaria al interior de la escuela es aquel en que una mayor proporción de estudiantes ha realizado actividades (en comparación con la participación formal y activista). Pese a que la mayoría de los estudiantes señala que no ha realizado trabajos voluntarios, colectas de dineros o bienes para ayudar a otros, ni actividades de ayuda a la comunidad al interior de la escuela durante los últimos dos semestres (un 61.9%, un 54.1% y un 61.3%, respectivamente). 
+El ámbito de la participación comunitaria al interior de la escuela es aquel en que una mayor proporción de estudiantes ha realizado actividades (en comparación con la participación formal y activista). Pese a que la mayoría de los estudiantes señala que no ha realizado trabajos voluntarios, colectas de dineros o bienes para ayudar a otros, ni actividades de ayuda a la comunidad al interior de la escuela durante los últimos dos semestres (un 61.9%, un 54.1% y un 61.3%, respectivamente).
 
 ---
 
@@ -71,6 +76,6 @@ El ámbito de la participación comunitaria al interior de la escuela es aquel e
 knitr::include_graphics("images/graph_partcom.png")
 ```
 
-Pocos estudiantes han realizado actividades de participación comunitaria fuera de su escuela. La mayoría de los estudiantes no ha donado dinero por una buena causa, trabajado como voluntario para ayudar a personas de su comunidad, ni ha participado de una actividad social en la comunidad en que vive durante los últimos 12 meses (un 91.3%, un 90.5% y un 79%, respectivamente). 
+Pocos estudiantes han realizado actividades de participación comunitaria fuera de su escuela. La mayoría de los estudiantes no ha donado dinero por una buena causa, trabajado como voluntario para ayudar a personas de su comunidad, ni ha participado de una actividad social en la comunidad en que vive durante los últimos 12 meses (un 91.3%, un 90.5% y un 79%, respectivamente).
 
 ---
