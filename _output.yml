@@ -8,11 +8,16 @@ bookdown::gitbook:
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Publicado con bookdown</a></li>
     edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
-    download: ["pdf"]
+    sharing:
+      github: yes
+      facebook: no
+      twitter: no
+    download: "pdf"
 
-bookdown::pdf_book:
+#bookdown::pdf_book:
   includes:
     in_header: preamble2.tex
+#  template: subtitle.tex
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes

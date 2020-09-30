@@ -43,13 +43,6 @@ Estructura del reporte:
 - 2.3 Participación comunitaria
 
 
-## Documento de presentación seminario 30 Septiembre 2020 {-}
-
-<iframe src=presentacion/paces-report-press.html height="450" width=100% allowfullscreen="true">
-</iframe>
-
-
-
 ```{r include=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(

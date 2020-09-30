@@ -8,7 +8,7 @@ knitr::opts_chunk$set(out.width="80%", fig.pos = "!ht", out.extra = "")
 
 # Reporte metodológico{-}
 
-Para abordar esta pregunta se lleva a cabo un Estudio Panel de Ciudadanía Escolar entre 2019 y 2021, evaluando a una muestra representativa de padres, docentes y estudiantes de enseñanza media.  A continuación se presentan un esquema que resume el diseño metodológico longitudinal del estudio.
+Para abordar nuestra pregunta de investigación se lleva a cabo un Estudio Panel de Ciudadanía Escolar entre 2019 y 2021, evaluando a una muestra representativa de padres, docentes y estudiantes de enseñanza media.  A continuación se presenta un esquema que resume el diseño metodológico longitudinal del estudio.
 
 **Diseño del Estudio Panel de Ciudadanía Escolar - PACES**
 ```{r echo=FALSE, fig.align='center'}
