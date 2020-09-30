@@ -50,7 +50,7 @@
 % Allow footnotes in longtable head/foot
 \IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
 \makesavenoteenv{longtable}
-\usepackage{graphicx}
+\usepackage{graphicx,grffile}
 \makeatletter
 \def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
 \def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
@@ -76,9 +76,6 @@
 } {
   \endorigfigure
 }
-\ifluatex
-  \usepackage{selnolig}  % disable illegal ligatures
-\fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
 
@@ -157,6 +154,8 @@ Para abordar nuestra pregunta de investigación se lleva a cabo un Estudio Panel
 \textbf{Diseño del Estudio Panel de Ciudadanía Escolar - PACES}
 
 \begin{center}\includegraphics[width=0.8\linewidth,]{images/diseno1} \end{center}
+
+Los participantes del estudio son estudiantes (2° año EM), sus apoderados y profesores provenientes de la Región de Antofagasta (14 Establecimientos), la Región Metropolitana (35 Establecimientos) y la Región del Maule (15 Establecimientos).
 
 \hypertarget{conocimiento-y-formaciuxf3n-en-la-escuela}{%
 \chapter{Conocimiento y formación en la escuela}\label{conocimiento-y-formaciuxf3n-en-la-escuela}}

@@ -14,6 +14,9 @@ Para abordar nuestra pregunta de investigación se lleva a cabo un Estudio Panel
 ```{r echo=FALSE, fig.align='center'}
 knitr::include_graphics("images/diseno1.png")
 ```
+
+Los participantes del estudio son estudiantes (2° año EM), sus apoderados y profesores provenientes de la Región de Antofagasta (14 Establecimientos), la Región Metropolitana (35 Establecimientos) y la Región del Maule (15 Establecimientos).
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjA5MDQ2NTgwNiwtMTkzOTcxMzEzOSwtMT
 kzOTcxMzEzOSwyMzA5NTE0NDksLTEwMzY2NzkxNzcsLTIzODY5

@@ -133,7 +133,7 @@ Coinvestigadores:
 .right-board[
 Asistentes de investigación:
 * Anaís Herrera, UChile
-* Macarena Sanchez, UDP
+* Macarena Sánchez, UDP
 ]
 
 
@@ -149,6 +149,14 @@ class: blue
 
 ## - Módulo 3: Participación
 
+
+---
+# Diseño metodológico
+
+Estudiantes (2° año EM), sus apoderados y profesores provenientes de la Región de Antofagasta (14 Establecimientos), la Región Metropolitana (35 Establecimientos) y la Región del Maule (15 Establecimientos).
+
+.center[
+![:scale 40%](https://juancarloscastillo.github.io/reporte-paces/images/diseno1.png)]
 
 ---
 class: blue
@@ -214,6 +222,13 @@ class: middle center
 class: middle center
 .framed[
 ![:scale 85%](https://raw.githubusercontent.com/juancarloscastillo/paces/master/output/graphs/Conocimiento_civico_conceptual_colegio.png)
+]
+
+
+---
+class: middle center
+.framed[
+![:scale 85%](https://raw.githubusercontent.com/juancarloscastillo/paces/master/output/graphs/Conocimiento_civico_conceptual_region.png)
 ]
 
 
@@ -402,6 +417,13 @@ class: blue middle center
 
 # *Preguntas y comentarios*
 
+---
+# Compromisos y pasos a seguir
+
+Sorteo de una tablet por región
+
+.center[
+![:scale 45%](https://juancarloscastillo.github.io/reporte-paces/images/diseno1.png)]
 
 ---
 class: middle center
