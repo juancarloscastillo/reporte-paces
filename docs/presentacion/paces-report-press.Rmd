@@ -1,5 +1,5 @@
 ---
-title: "Formación ciudadana: Contrastes entre la familia y la escuela"
+title: "Seminario PACES OLA 1"
 subtitle: "Resultados Primera ola Panel de Ciudadanía Escolar PACES"
 author: ""
 date: "30/10/2020"
@@ -406,7 +406,7 @@ class: blue middle center
 ---
 class: middle center
 
-## .huge[¡Muchas Gracias!]
+## .huge[.blue[¡Muchas Gracias!]]
 
 
 ---
@@ -420,4 +420,5 @@ Resultados Primera Ola del .blue[Panel de Ciudadanía Escolar] (PACES)
 Proyecto FONDECYT N°1181239
 
 INFORME Y PRESENTACION DISPONIBLES EN:
-[https://juancarloscastillo.github.io/reporte-paces/](https://juancarloscastillo.github.io/reporte-paces/)
+
+[http://bit.ly/reporte-paces](https://juancarloscastillo.github.io/reporte-paces/)

@@ -277,3 +277,26 @@ pre, code {
   right:2%;
   top:0%;
 }
+
+
+/*weblinks*/
+
+/* unvisited link */
+a:link {
+  color: yellow;
+}
+
+/* visited link */
+a:visited {
+  color: red;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
