@@ -127,13 +127,13 @@ class: animated, fadeIn ,fadeOut
 Coinvestigadores:
   * Daniel Miranda, UC
   * Camila Jara, UDP
-  * Juan Castillo, UChile
+  * Juan Carlos Castillo, UChile
   ]
 
 .right-board[
 Asistentes de investigación:
 * Anaís Herrera, UChile
-* Macarena García, UDP
+* Macarena Sanchez, UDP
 ]
 
 
