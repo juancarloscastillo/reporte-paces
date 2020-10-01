@@ -269,15 +269,21 @@ class: middle center
 ![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_for_ciud3.png)
 ]
 
+---
+class: middle center
+
 .framed[
 ![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_for_ciud9.png)
 ]
 
-
+---
+class: middle center
 .framed[
 ![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_for_ciud4.png)
 ]
 
+---
+class: middle center
 .framed[
 ![:scale 85%](https://juancarloscastillo.github.io/reporte-paces/images/graph_for_ciud10.png)
 ]
